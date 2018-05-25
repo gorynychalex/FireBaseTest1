@@ -44,6 +44,7 @@ public class RecAdapter extends RecyclerView.Adapter<RecAdapter.ViewHolder> {
         public TextView language;
         public TextView name;
 
+        
         public ViewHolder(View itemView) {
             super(itemView);
 
